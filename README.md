@@ -7,7 +7,7 @@ Udacity Deep Learning course using TensorFlow  - my attempt to solve the exercis
 
 **Assignment 3** - Max Accuracy: 95.0% (using a 2-hidden layer neural network)
 
-**Assignment 4** - Max Accuracy: 92.7%  (two convolutional layers + one fully connected layer)
+**Assignment 4** - Max Accuracy: 92.7%  (using a two convolutional layers + one fully connected layer)
 
 
 
