@@ -7,5 +7,7 @@ Assigment 2 - Max Accuracy: 88.8% (using 1-hidden layer neural network with rect
 
 Assigment 3 - Max Accuracy: 95.0% (using a 2-hidden layer neural network)
 
+Assigment 4 - Max Accuracy: 92.7%  (two convolutional layers + one fully connected layer)
+
 
 
